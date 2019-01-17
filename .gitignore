@@ -1,0 +1,17 @@
+install_manifest.txt
+docs/*
+data*
+original_data*
+build
+CMakeCache.txt
+CMakeFiles
+cmake_install.cmake
+.cproject
+.csettings
+
+dokuwiki2markdown
+run
+
+Makefile
+.project
+.settings
